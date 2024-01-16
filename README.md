@@ -62,4 +62,4 @@ npm start
 Contributions are welcome! Please read the contributing guide to get started.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the [MIT License](LICENSE).
